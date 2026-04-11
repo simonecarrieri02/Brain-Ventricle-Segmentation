@@ -3,7 +3,7 @@
 Automatic segmentation of ventricular regions in brain MRI using two fully automatic pipelines: a classical k-means approach and a Mamdani fuzzy inference system.
 
 **Course:** Processing of 2D and 3D Medical Images — Universitat Politècnica de Catalunya (UPC)
-**Author:** Simone Carrieri
+**Authors:** Carrieri Simone  
 **Academic year:** 2025–2026
 
 ---
